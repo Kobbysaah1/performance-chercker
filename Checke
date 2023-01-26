@@ -1,0 +1,17 @@
+import math
+sum =0
+product =1
+Counter = 0
+Computers =int(input("Number of computers on test") 
+Programs = int(input("Number of programs tested") 
+For I in range(computers)
+Are = []
+For I in range (programs)
+are. Append(int(input(f"program {i+1} runtime")
+For I in range(len(arr))
+Product = product*arr[I]
+Geomean = (float) (math.pow(product,(1/len(arr))
+For I in range(len(arr)
+Sum = sum + arr[I]
+Arithmean = sum/len(are)
+A=a+1
